@@ -1,0 +1,12 @@
+# IDEs/Editors
+.vscode
+.idea
+.sln
+.code-workspace
+
+# Working data
+.json
+
+# Output
+bin/**
+obj/**
